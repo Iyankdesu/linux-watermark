@@ -14,4 +14,4 @@ $ git clone https://github.com/Iyankdesu/linux-watermark.git
 $ python app.py
 ```
 
-![](Screenhot.jpg)
+![](Screenshot.jpg)
